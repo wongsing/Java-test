@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS与HTML结合第二种</title>
+
+    <!--问题：这种方式的缺点。
+        1.只能在同一页面内复用代码，不能在多个页面中复用 css 代码。
+        2.维护起来不方便，实际的项目中会有成千上万的页面，要到每个页面中去修改。工作量太大了。
+    -->
+    <!--style 标签专门用来定义 css 样式代码-->
+    
+    <style type="text/css">
+        div{
+            border: 1px solid red;
+        }
+        span{
+            border: 1px solid red;
+        }
+    </style>
+</head>
+<body>
+    <div>div 标签 1</div>
+    <div>div 标签 2</div>
+    <span>span 标签 1</span>
+    <span>span 标签 2</span>
+</body>
+</html>
