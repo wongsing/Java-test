@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/03-jQuery/03-jQuery.iml" filepath="$PROJECT_DIR$/03-jQuery/03-jQuery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_book/05_book.iml" filepath="$PROJECT_DIR$/05_book/05_book.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaWeb-test.iml" filepath="$PROJECT_DIR$/JavaWeb-test.iml" />
     </modules>
   </component>
